@@ -1,0 +1,22 @@
+{
+  "name": "very-simple-statistics",
+  "version": "1.0.0",
+  "description": "few functions that applies statistical formulaes",
+  "main": "statDonut/lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sumanla13a/statistics-module.git"
+  },
+  "keywords": [
+    "statistics"
+  ],
+  "author": "sum114 <lamasuman2@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumanla13a/statistics-module/issues"
+  },
+  "homepage": "https://github.com/sumanla13a/statistics-module"
+}
